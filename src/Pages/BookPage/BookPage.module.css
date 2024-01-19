@@ -1,0 +1,14 @@
+.search-container{
+    width:40%;
+    margin:auto;
+    padding-top: 5%;
+}
+.search-container h2{
+    font-family: Chivo Mono;
+    padding-top: 10px;
+
+}
+
+.search-container span{
+    color: var(--primary-color);
+}

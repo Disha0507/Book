@@ -1,0 +1,18 @@
+
+.productlistall-container{
+    padding-top: 8rem;
+    
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-bottom: 5rem;
+    grid-gap:4rem;
+}
+
+.grid-item{
+    display:flex;
+    justify-content: center;
+}
+
